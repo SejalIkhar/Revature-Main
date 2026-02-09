@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\bin\Debug\net10.0\Methodinvocationdemo.exe
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\bin\Debug\net10.0\Methodinvocationdemo.deps.json
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\bin\Debug\net10.0\Methodinvocationdemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\bin\Debug\net10.0\Methodinvocationdemo.dll
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\bin\Debug\net10.0\Methodinvocationdemo.pdb
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.dll
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\refint\Methodinvocationdemo.dll
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.pdb
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\Methodinvocationdemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Methodinvocationdemo\obj\Debug\net10.0\ref\Methodinvocationdemo.dll

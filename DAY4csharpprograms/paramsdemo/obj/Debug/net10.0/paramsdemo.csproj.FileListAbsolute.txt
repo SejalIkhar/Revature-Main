@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\paramsdemo\bin\Debug\net10.0\paramsdemo.exe
+C:\Users\HP\Downloads\cmder\paramsdemo\bin\Debug\net10.0\paramsdemo.deps.json
+C:\Users\HP\Downloads\cmder\paramsdemo\bin\Debug\net10.0\paramsdemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\paramsdemo\bin\Debug\net10.0\paramsdemo.dll
+C:\Users\HP\Downloads\cmder\paramsdemo\bin\Debug\net10.0\paramsdemo.pdb
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.dll
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\refint\paramsdemo.dll
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.pdb
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\paramsdemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\paramsdemo\obj\Debug\net10.0\ref\paramsdemo.dll

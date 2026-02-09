@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\bin\Debug\net10.0\TuppleDemo.exe
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\bin\Debug\net10.0\TuppleDemo.deps.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\bin\Debug\net10.0\TuppleDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\bin\Debug\net10.0\TuppleDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\bin\Debug\net10.0\TuppleDemo.pdb
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\refint\TuppleDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.pdb
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\TuppleDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\TuppleDemo\obj\Debug\net10.0\ref\TuppleDemo.dll

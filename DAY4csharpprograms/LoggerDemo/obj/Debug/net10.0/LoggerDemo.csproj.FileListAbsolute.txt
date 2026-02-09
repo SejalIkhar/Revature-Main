@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\LoggerDemo\bin\Debug\net10.0\LoggerDemo.exe
+C:\Users\HP\Downloads\cmder\LoggerDemo\bin\Debug\net10.0\LoggerDemo.deps.json
+C:\Users\HP\Downloads\cmder\LoggerDemo\bin\Debug\net10.0\LoggerDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\LoggerDemo\bin\Debug\net10.0\LoggerDemo.dll
+C:\Users\HP\Downloads\cmder\LoggerDemo\bin\Debug\net10.0\LoggerDemo.pdb
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.dll
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\refint\LoggerDemo.dll
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.pdb
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\LoggerDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\LoggerDemo\obj\Debug\net10.0\ref\LoggerDemo.dll

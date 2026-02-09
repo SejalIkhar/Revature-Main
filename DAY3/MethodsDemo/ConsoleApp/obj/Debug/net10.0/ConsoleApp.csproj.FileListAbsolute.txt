@@ -1,0 +1,6 @@
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\MethodsDemo\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json

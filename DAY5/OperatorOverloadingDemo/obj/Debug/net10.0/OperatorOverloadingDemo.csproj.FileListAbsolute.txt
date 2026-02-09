@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\refint\OperatorOverloadingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OperatorOverloadingDemo\obj\Debug\net10.0\ref\OperatorOverloadingDemo.dll

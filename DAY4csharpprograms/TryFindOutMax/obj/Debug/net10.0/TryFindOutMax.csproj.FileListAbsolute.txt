@@ -1,0 +1,30 @@
+C:\Users\HP\Downloads\cmder\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.exe
+C:\Users\HP\Downloads\cmder\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.deps.json
+C:\Users\HP\Downloads\cmder\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.pdb
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.sourcelink.json
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\refint\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.pdb
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\TryFindOutMax\obj\Debug\net10.0\ref\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\bin\Debug\net10.0\TryFindOutMax.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\refint\TryFindOutMax.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\TryFindOutMax.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\TryFindOutMax\obj\Debug\net10.0\ref\TryFindOutMax.dll

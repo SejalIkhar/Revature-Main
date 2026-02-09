@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Extensiondemo\bin\Debug\net10.0\Extensiondemo.exe
+C:\Users\HP\Downloads\cmder\Extensiondemo\bin\Debug\net10.0\Extensiondemo.deps.json
+C:\Users\HP\Downloads\cmder\Extensiondemo\bin\Debug\net10.0\Extensiondemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Extensiondemo\bin\Debug\net10.0\Extensiondemo.dll
+C:\Users\HP\Downloads\cmder\Extensiondemo\bin\Debug\net10.0\Extensiondemo.pdb
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.dll
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\refint\Extensiondemo.dll
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.pdb
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\Extensiondemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Extensiondemo\obj\Debug\net10.0\ref\Extensiondemo.dll

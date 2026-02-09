@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\bin\Debug\net10.0\GarbageCollectionDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\bin\Debug\net10.0\GarbageCollectionDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\bin\Debug\net10.0\GarbageCollectionDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\bin\Debug\net10.0\GarbageCollectionDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\bin\Debug\net10.0\GarbageCollectionDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\refint\GarbageCollectionDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\GarbageCollectionDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\GarbageCollectionDemo\obj\Debug\net10.0\ref\GarbageCollectionDemo.dll

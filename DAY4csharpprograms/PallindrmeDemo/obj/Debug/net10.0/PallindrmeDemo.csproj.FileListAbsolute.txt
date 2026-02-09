@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\bin\Debug\net10.0\PallindrmeDemo.exe
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\bin\Debug\net10.0\PallindrmeDemo.deps.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\bin\Debug\net10.0\PallindrmeDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\bin\Debug\net10.0\PallindrmeDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\bin\Debug\net10.0\PallindrmeDemo.pdb
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\refint\PallindrmeDemo.dll
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.pdb
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\PallindrmeDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\PallindrmeDemo\obj\Debug\net10.0\ref\PallindrmeDemo.dll

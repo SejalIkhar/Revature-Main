@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\bin\Debug\net10.0\LocalfunctionDemo.exe
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\bin\Debug\net10.0\LocalfunctionDemo.deps.json
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\bin\Debug\net10.0\LocalfunctionDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\bin\Debug\net10.0\LocalfunctionDemo.dll
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\bin\Debug\net10.0\LocalfunctionDemo.pdb
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.dll
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\refint\LocalfunctionDemo.dll
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.pdb
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\LocalfunctionDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\LocalfunctionDemo\obj\Debug\net10.0\ref\LocalfunctionDemo.dll

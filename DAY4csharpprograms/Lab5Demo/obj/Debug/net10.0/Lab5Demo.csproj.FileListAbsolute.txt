@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\bin\Debug\net10.0\Lab5Demo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\bin\Debug\net10.0\Lab5Demo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\bin\Debug\net10.0\Lab5Demo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\bin\Debug\net10.0\Lab5Demo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\bin\Debug\net10.0\Lab5Demo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\refint\Lab5Demo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\Lab5Demo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY4csharpprograms\Lab5Demo\obj\Debug\net10.0\ref\Lab5Demo.dll

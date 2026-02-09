@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\bin\Debug\net10.0\PolymorphismDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\bin\Debug\net10.0\PolymorphismDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\bin\Debug\net10.0\PolymorphismDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\bin\Debug\net10.0\PolymorphismDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\bin\Debug\net10.0\PolymorphismDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\refint\PolymorphismDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\PolymorphismDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY6\PolymorphismDemo\obj\Debug\net10.0\ref\PolymorphismDemo.dll
