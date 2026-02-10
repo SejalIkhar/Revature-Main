@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\bin\Debug\net10.0\DelegatesGenericDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\bin\Debug\net10.0\DelegatesGenericDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\bin\Debug\net10.0\DelegatesGenericDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\bin\Debug\net10.0\DelegatesGenericDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\bin\Debug\net10.0\DelegatesGenericDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\refint\DelegatesGenericDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\DelegatesGenericDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\DelegatesGenericDemo\obj\Debug\net10.0\ref\DelegatesGenericDemo.dll
