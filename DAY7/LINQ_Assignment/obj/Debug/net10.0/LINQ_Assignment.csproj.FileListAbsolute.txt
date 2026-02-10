@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\bin\Debug\net10.0\LINQ_Assignment.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\refint\LINQ_Assignment.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\LINQ_Assignment.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY7\LINQ_Assignment\obj\Debug\net10.0\ref\LINQ_Assignment.dll
