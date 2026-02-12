@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-using System;
+//using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -45,7 +44,7 @@ public class Program
         };
 
         // ---------------------------------------------------------
-        // A) JOIN: Which customer placed which orders (order list)
+        // JOIN: Which customer placed which orders (order list)
         // ---------------------------------------------------------
         var customerOrders = customers.Join(
             orders,
@@ -67,7 +66,7 @@ public class Program
         }
 
         // -------------------------------------------------------------------
-        // B) GROUP RESULT: How many orders + total order value per customer
+        //   GROUP RESULT: How many orders + total order value per customer
         //    (includes customers with 0 orders using GroupJoin)
         // -------------------------------------------------------------------
         var summary = customers
@@ -99,3 +98,4 @@ public class Program
         }
     }
 }
+

@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\refint\AsynchronousDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\AsynchronousDemo\obj\Debug\net10.0\ref\AsynchronousDemo.dll

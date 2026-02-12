@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\bin\Debug\net10.0\ExceptionHnadlingDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\bin\Debug\net10.0\ExceptionHnadlingDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\bin\Debug\net10.0\ExceptionHnadlingDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\bin\Debug\net10.0\ExceptionHnadlingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\bin\Debug\net10.0\ExceptionHnadlingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\refint\ExceptionHnadlingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ExceptionHnadlingDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY8\ExceptionHnadlingDemo\obj\Debug\net10.0\ref\ExceptionHnadlingDemo.dll

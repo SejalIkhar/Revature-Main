@@ -1,9 +1,9 @@
-﻿using System;
+﻿// See https://aka.ms/new-console-template for more information
 using EmployeeDemo;
 using ExtensionMethodsDemo;
-using Utilities;
+//using Utilities;
 
-/*namespace MethodsDemo
+namespace MethodsDemo
 {
     class ParametersDemo
     {
@@ -58,9 +58,22 @@ using Utilities;
             NumberOfStudents++;
         }
 
+        public void Promote()
+        {
+            Print();
+
+        }
+
         // public void Print(Student this)
         public void Print()
         {
+            // int x;
+            // int y;
+
+            // if(x == 0) return;
+            // Print();
+
+            //     x--;
             Console.WriteLine($"Name: {this.Name}, Age: {this.Age} Student Count: {NumberOfStudents}");
         }
 
@@ -71,7 +84,7 @@ using Utilities;
             return this.Age * muyltipBy;
         }
 
-    }*/
+    }
 
     class Calculator
     {
@@ -98,7 +111,15 @@ using Utilities;
 
     public class Program
     {
-        static void Main(string[] args)
+        static void Main()
+        {
+
+            ExpressionBodiedMembersDemo.Demo demo = new ExpressionBodiedMembersDemo.Demo();
+
+            demo.Add(2, 3);
+            demo.Subtract(2, 3);
+        }
+        static void ExtnsionMethodDemo(string[] args)
         {
             Employee dave = new Employee(1, "Dave", "Smith", 30);
             dave.Print();
@@ -119,7 +140,6 @@ using Utilities;
 
             var charlie = new Student("Charlie", 26);
             charlie.Print();
-
-
         }
     }
+}

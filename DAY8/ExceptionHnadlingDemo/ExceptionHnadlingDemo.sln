@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHnadlingDemo", "ExceptionHnadlingDemo.csproj", "{5F19E963-99D2-19BB-430B-31B5A43BC21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F19E963-99D2-19BB-430B-31B5A43BC21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F19E963-99D2-19BB-430B-31B5A43BC21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F19E963-99D2-19BB-430B-31B5A43BC21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F19E963-99D2-19BB-430B-31B5A43BC21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9EB941-F77E-44BF-AA89-7E6824C5BD89}
+	EndGlobalSection
+EndGlobal

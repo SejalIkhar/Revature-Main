@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\bin\Debug\net10.0\EcommerceDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\bin\Debug\net10.0\EcommerceDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\bin\Debug\net10.0\EcommerceDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\bin\Debug\net10.0\EcommerceDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\bin\Debug\net10.0\EcommerceDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\refint\EcommerceDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\EcommerceDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY5\OOPS Exercise\EcommerceDemo\obj\Debug\net10.0\ref\EcommerceDemo.dll

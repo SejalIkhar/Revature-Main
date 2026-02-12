@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\cmder\\csharpprograms\\TuppleDemo\\TuppleDemo.csproj": {}
+    "C:\\Users\\HP\\Downloads\\cmder\\Revature Main\\DAY4csharpprograms\\TuppleDemo\\TuppleDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\cmder\\csharpprograms\\TuppleDemo\\TuppleDemo.csproj": {
+    "C:\\Users\\HP\\Downloads\\cmder\\Revature Main\\DAY4csharpprograms\\TuppleDemo\\TuppleDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\cmder\\csharpprograms\\TuppleDemo\\TuppleDemo.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\cmder\\Revature Main\\DAY4csharpprograms\\TuppleDemo\\TuppleDemo.csproj",
         "projectName": "TuppleDemo",
-        "projectPath": "C:\\Users\\HP\\Downloads\\cmder\\csharpprograms\\TuppleDemo\\TuppleDemo.csproj",
+        "projectPath": "C:\\Users\\HP\\Downloads\\cmder\\Revature Main\\DAY4csharpprograms\\TuppleDemo\\TuppleDemo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\cmder\\csharpprograms\\TuppleDemo\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\cmder\\Revature Main\\DAY4csharpprograms\\TuppleDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
