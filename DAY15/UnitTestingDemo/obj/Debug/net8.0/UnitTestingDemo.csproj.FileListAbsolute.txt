@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\bin\Debug\net8.0\UnitTestingDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\bin\Debug\net8.0\UnitTestingDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\bin\Debug\net8.0\UnitTestingDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\bin\Debug\net8.0\UnitTestingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\bin\Debug\net8.0\UnitTestingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\refint\UnitTestingDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\UnitTestingDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY15\UnitTestingDemo\obj\Debug\net8.0\ref\UnitTestingDemo.dll

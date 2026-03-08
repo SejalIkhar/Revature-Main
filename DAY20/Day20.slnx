@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="SwaggerDemo/SwaggerDemo.csproj" />
+  <Project Path="WebAPI.Tests/WebAPI.Tests.csproj" />
+  <Project Path="WebApiDemo/WebApiDemo.csproj" />
+</Solution>

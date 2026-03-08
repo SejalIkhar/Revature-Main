@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Customer": "Server=localhost\\SQLEXPRESS;Database=Customer;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}

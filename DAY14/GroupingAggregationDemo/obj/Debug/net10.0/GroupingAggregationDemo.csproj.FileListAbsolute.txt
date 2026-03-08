@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\bin\Debug\net10.0\GroupingAggregationDemo.exe
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\bin\Debug\net10.0\GroupingAggregationDemo.deps.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\bin\Debug\net10.0\GroupingAggregationDemo.runtimeconfig.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\bin\Debug\net10.0\GroupingAggregationDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\bin\Debug\net10.0\GroupingAggregationDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.sourcelink.json
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\refint\GroupingAggregationDemo.dll
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.pdb
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\GroupingAggregationDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\cmder\Revature Main\DAY14\GroupingAggregationDemo\obj\Debug\net10.0\ref\GroupingAggregationDemo.dll
